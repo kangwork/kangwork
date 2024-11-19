@@ -6,7 +6,7 @@
 <summary><strong>🔧Tech Stack</strong></summary>
 
 ---
-Some of the technologies I've worked with and **am currently learning** include:
+Some of the technologies I've worked with and ***am currently learning*** include:
 
 <div align="center">
 
@@ -50,9 +50,7 @@ I'm always looking to learn new technologies and tools. If you have any recommen
 
 
 ---
-
-
-<strong>[📫 Let's Connect](mailto:irene.kang@mail.utoronto.ca)</strong>
+<a href="mailto:irene.kang@mail.utoronto.ca" style="text-decoration: none;"><strong>📫 Let's Connect</strong></a>
 
 <!-- - [LinkedIn]
 - [Email](mailto:irene.kang@mail.utoronto.ca) 
