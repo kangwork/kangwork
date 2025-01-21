@@ -1,6 +1,6 @@
 
 <div align="center">
-  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Irene%20Kang&fontSize=90&animation=fadeIn&desc=🐒&descAlignY=70&descAlign=62">
+  <img src="https://capsule-render.vercel.app/api?type=waving&color=auto&height=300&section=header&text=Irene%20Kang&fontSize=90&animation=fadeIn&desc=🐒&descAlignY=70&descAlign=100">
 
 <details>
 <summary><strong>🔧Tech Stack</strong></summary>
